@@ -1,1 +1,1 @@
-pleare read  license 
+please read  license 
